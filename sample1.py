@@ -1,0 +1,2 @@
+str="karthika"
+print(str)
