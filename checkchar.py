@@ -1,9 +1,8 @@
 num=input()
-str1=['a','e','i','o','u']
-str2=['$','@','*','#']
-if num in str1:
+a=['$','@','*','#']
+if num=='a' or num=='e' or num=='i' or num=='o' or num=='u':
             print("Vowel")
-elif num in str2:
+elif num=='$' or num=='@' or num=='#' or num=='*':
 	print("invalid")
 else:
             print("Consonant")
