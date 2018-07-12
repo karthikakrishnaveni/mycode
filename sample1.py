@@ -1,2 +1,0 @@
-str="karthika"
-print(str)
